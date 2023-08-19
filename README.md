@@ -170,7 +170,7 @@
     - [2.3.3 Υπευθυνότητες](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.3%20Orchestrations/2.3%20Orchestrations.md#233-responsibilities)
       - [2.3.3.0 Προηγμένη Λογική](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.3%20Orchestrations/2.3%20Orchestrations.md#2330-advanced-logic)
         - [2.3.3.0.0 Συνδυασμός Ροής](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.3%20Orchestrations/2.3%20Orchestrations.md#23300-flow-combinations)
-        - [2.3.3.0.1 Call Order](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.3%20Orchestrations/2.3%20Orchestrations.md#23301-call-order)
+        - [2.3.3.0.1 Σειρά Κλήσης](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.3%20Orchestrations/2.3%20Orchestrations.md#23301-call-order)
           - [2.3.3.0.1.0 Φυσική Τάξη](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.3%20Orchestrations/2.3%20Orchestrations.md#233010-natural-order)
           - [2.3.3.0.1.1 Επιβεβαίωση Τάξης](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.3%20Orchestrations/2.3%20Orchestrations.md#233011-enforced-order)
         - [2.3.3.0.2 Αντιστοίχιση Εξαιρέσεων (Wrapping & Unwrapping)](https://github.com/hassanhabib/The-Standard/blob/master/2.%20Services/2.3%20Orchestrations/2.3%20Orchestrations.md#23302-exceptions-mapping-wrapping--unwrapping)
