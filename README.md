@@ -273,14 +273,14 @@
           - [3.2.1.2.0.3 Unobtrusiveness](https://github.com/hassanhabib/The-Standard/blob/master/3.%20Exposers/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321203-unobtrusiveness)
           - [3.2.1.2.0.4 Οργάνωση](https://github.com/hassanhabib/The-Standard/blob/master/3.%20Exposers/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321204-organization)
 
-## Other Resources
+## Άλλες πηγές
 - The Standard [YouTube Playlist](https://www.youtube.com/watch?v=8PveoymxCok&list=PLan3SCnsISTQqmSTZHQbGxBmVDwQdrlub)
 - Guidelines for [C# Coding Standards](https://github.com/hassanhabib/CSharpCodingStandard/blob/master/Readme.md) 
 - [The Team Standard](https://github.com/hassanhabib/The-Standard-Team/blob/main/README.md) is the engineering Standard for team culture, practices and code of conduct.
 - [The Standard for System Design & Architecture](https://github.com/hassanhabib/The-Standard-Systems-Design/blob/main/README.md)
 - [The Standard Codex](https://github.com/hassanhabib/The-Standard-Codex/blob/main/README.md) - It's not enough to know the truth, you must have the courage to wield it into existence.
 
-## Translations
+## Μεταφράσεις
 - [The Standard in Arabic](https://github.com/hassanhabib/The-Standard-Arabic)
 - [The Standard in Ukrainian](https://github.com/hassanhabib/The-Standard-Ukrainian)
 - [The Standard in French](https://github.com/hassanhabib/The-Standard-French)
@@ -299,7 +299,7 @@
 - [The Standard in Polish](https://github.com/hassanhabib/The-Standard-Polish)
 - [The Standard in Urdu](https://github.com/hassanhabib/The-Standard-Urdu)
 
-## The Standard in Different Programming Languages
+## Το πρότυπο σε διαφορες γλώσσες προγραμματισμού
 - [The Standard in Go](https://github.com/hassanhabib/StandardGoLang)
 - [The Standard in Scala](https://github.com/hassanhabib/StandardScala)
 - [The Standard in R](https://github.com/hassanhabib/StandardR)
