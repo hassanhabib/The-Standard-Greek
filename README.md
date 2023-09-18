@@ -7,7 +7,7 @@
 
 [![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
-- [0 Εισαγωγή](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Εισαγωγή/0.%20Εισαγωγή.md)
+- [0 Εισαγωγή](https://github.com/hassanhabib/The-Standard-Greek/blob/master/0.%20Εισαγωγή/0.%20Εισαγωγή.md)
   - [0.0 Θεωρία](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#00-the-theory)
     - [0.0.0 Εισαγωγή](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#000-introduction)
     - [0.0.1 Εύρεση Απαντήσεων](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#001-finding-answers)
